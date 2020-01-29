@@ -17,7 +17,7 @@ Other assets used:
 - [CoreUI Free theme](https://coreui.io/demo/#main.html) (Bootstrap 4)
 - [FullCalendar library](https://fullcalendar.io/) (version 3)
 
-
+new line
 ---
 
 ## How to use
